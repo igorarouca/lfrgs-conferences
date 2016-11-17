@@ -1,0 +1,4 @@
+Bundle-Name: DevCon - Awesome Client Monitoring
+Bundle-SymbolicName: com.liferay.devcon.awesome.client.monitoring
+Bundle-Version: 1.0.0
+Private-Package: com.liferay.devcon.awesome.client.monitoring.internal

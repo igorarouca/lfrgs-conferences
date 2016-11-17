@@ -1,0 +1,4 @@
+Bundle-Name: DevCon - Awesome Service Always
+Bundle-SymbolicName: com.liferay.devcon.awesome.service.always
+Bundle-Version: 1.0.0
+Private-Package: com.liferay.devcon.awesome.service.always.internal

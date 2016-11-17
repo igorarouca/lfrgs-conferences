@@ -1,0 +1,6 @@
+dependencies {
+	compileOnly group: "biz.aQute.bnd", name: "biz.aQute.bndlib", version: "3.1.0"
+	compileOnly group: "org.osgi", name: "org.osgi.core", version: "6.0.0"
+	compileOnly project(":modules:awesome:awesome-client-api")
+	compileOnly project(":modules:awesome:awesome-service-api")
+}

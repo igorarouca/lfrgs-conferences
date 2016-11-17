@@ -1,0 +1,5 @@
+Bundle-Activator: com.liferay.devcon.awesome.client.simple.internal.AwesomeClientActivator
+Bundle-Name: DevCon - Awesone Client Simple
+Bundle-SymbolicName: com.liferay.devcon.awesome.client.simple
+Bundle-Version: 1.0.0
+Private-Package: com.liferay.devcon.awesome.client.simple.internal
